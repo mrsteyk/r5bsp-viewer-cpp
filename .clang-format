@@ -1,0 +1,22 @@
+---
+Language: Cpp
+ColumnLimit: '0'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortIfStatementsOnASingleLine: 'true'
+AllowShortLoopsOnASingleLine: 'true'
+AccessModifierOffset: '-4'
+IndentCaseLabels: 'false'
+IndentWidth: '4'
+Standard: c++17
+AlignOperands: 'true'
+AlignConsecutiveAssignments: 'true'
+AlignEscapedNewlinesLeft: 'true'
+AlignConsecutiveDeclarations: 'true'
+AlignAfterOpenBracket: 'true'
+BinPackParameters: 'true'
+BreakBeforeBraces: 'Attach'
+NamespaceIndentation: 'All'
+AlignTrailingComments: 'false'
+DerivePointerAlignment: 'false'
+PointerAlignment: 'Left'
+FixNamespaceComments: 'true'

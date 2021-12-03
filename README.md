@@ -1,0 +1,3 @@
+# R5 bsp viewer
+
+I just lost all will to continue this project so here we go, feel free to fork...
